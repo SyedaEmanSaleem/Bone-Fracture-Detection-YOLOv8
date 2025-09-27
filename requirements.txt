@@ -1,0 +1,6 @@
+ultralytics
+pillow
+torch
+torchvision
+opencv-python
+matplotlib
