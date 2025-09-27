@@ -30,13 +30,9 @@ Bone fracture detection in medical imaging is a challenging task requiring high 
 ```
 ├── Bone_Fracture_Dataset.ipynb   # Main notebook with training & inference
 ├── data.yaml                     # Dataset configuration (train/val/test paths)
-├── runs/                         # YOLO training results & best weights
-│   └── detect/
-│       └── bonefracture_train10/
-│           ├── weights/
-│           │   ├── best.pt       # Best model checkpoint
-│           │   └── last.pt
-└── README.md                     # Project documentation
+├── README.md
+├── best.pt
+└── result.csv                   
 ```
 
 ---
