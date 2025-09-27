@@ -1,0 +1,12 @@
+names:
+- fracture
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: bone-fracture-znzxd
+  url: https://universe.roboflow.com/bilrein/bone-fracture-znzxd/dataset/1
+  version: 1
+  workspace: bilrein
+test: ../test/images
+train: ../train/images
+val: ../valid/images
